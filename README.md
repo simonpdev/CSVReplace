@@ -10,8 +10,6 @@ And automatically detects changes between the contents of rows within the base a
 ### Input Format:
 - Base .CSV File
 - Updates/Changes .CSV File
-
-### Input Options:
 - Index of Primary Key position within row (value should be the same in both .CSV files in order to correctly identify rows)
 
 ### Output Format:
